@@ -1,0 +1,22 @@
+C:\Users\fredd\documents\visual studio 2015\Projects\autodraftpp\ConsoleApplication1\bin\Debug\AutoDraftPP.exe.config
+C:\Users\fredd\documents\visual studio 2015\Projects\autodraftpp\ConsoleApplication1\bin\Debug\AutoDraftPP.exe
+C:\Users\fredd\documents\visual studio 2015\Projects\autodraftpp\ConsoleApplication1\bin\Debug\AutoDraftPP.pdb
+C:\Users\fredd\documents\visual studio 2015\Projects\autodraftpp\ConsoleApplication1\bin\Debug\FileHelpers.dll
+C:\Users\fredd\documents\visual studio 2015\Projects\autodraftpp\ConsoleApplication1\bin\Debug\FileHelpers.xml
+C:\Users\fredd\documents\visual studio 2015\Projects\autodraftpp\ConsoleApplication1\obj\Debug\AutoDraftPP.exe
+C:\Users\fredd\documents\visual studio 2015\Projects\autodraftpp\ConsoleApplication1\obj\Debug\AutoDraftPP.pdb
+C:\Users\fredd\documents\visual studio 2015\Projects\autodraftpp\ConsoleApplication1\obj\Debug\AutoDraftPP.csprojResolveAssemblyReference.cache
+C:\Users\fredd\Documents\Visual Studio 2015\Projects\autodraftpp\AutoDraftPP\bin\Debug\AutoDraftPP.exe.config
+C:\Users\fredd\Documents\Visual Studio 2015\Projects\autodraftpp\AutoDraftPP\bin\Debug\AutoDraftPP.exe
+C:\Users\fredd\Documents\Visual Studio 2015\Projects\autodraftpp\AutoDraftPP\bin\Debug\AutoDraftPP.pdb
+C:\Users\fredd\Documents\Visual Studio 2015\Projects\autodraftpp\AutoDraftPP\bin\Debug\FileHelpers.dll
+C:\Users\fredd\Documents\Visual Studio 2015\Projects\autodraftpp\AutoDraftPP\bin\Debug\FileHelpers.xml
+C:\Users\fredd\Documents\Visual Studio 2015\Projects\autodraftpp\AutoDraftPP\obj\Debug\AutoDraftPP.csprojResolveAssemblyReference.cache
+C:\Users\fredd\Documents\Visual Studio 2015\Projects\autodraftpp\AutoDraftPP\obj\Debug\AutoDraftPP.exe
+C:\Users\fredd\Documents\Visual Studio 2015\Projects\autodraftpp\AutoDraftPP\obj\Debug\AutoDraftPP.pdb
+C:\Users\Fred\Documents\Dev\Autodraft++\Autodraft++\AutoDraftPP\bin\Debug\AutoDraftPP.exe.config
+C:\Users\Fred\Documents\Dev\Autodraft++\Autodraft++\AutoDraftPP\obj\Debug\AutoDraftPP.exe
+C:\Users\Fred\Documents\Dev\Autodraft++\Autodraft++\AutoDraftPP\obj\Debug\AutoDraftPP.pdb
+C:\Users\fredd\Documents\Dev\Autodraft++\AutoDraftPP\bin\Debug\AutoDraftPP.exe.config
+C:\Users\fredd\Documents\Dev\Autodraft++\AutoDraftPP\obj\Debug\AutoDraftPP.exe
+C:\Users\fredd\Documents\Dev\Autodraft++\AutoDraftPP\obj\Debug\AutoDraftPP.pdb

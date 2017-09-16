@@ -1,0 +1,8 @@
+C:\Users\fredd\documents\visual studio 2015\Projects\autodraftpp\ConsoleApplication1\bin\Debug\FileHelpers.dll
+C:\Users\fredd\documents\visual studio 2015\Projects\autodraftpp\ConsoleApplication1\bin\Debug\FileHelpers.xml
+C:\Users\fredd\documents\visual studio 2015\Projects\autodraftpp\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\fredd\documents\visual studio 2015\Projects\autodraftpp\ConsoleApplication1\bin\Debug\AutoDraftPP.exe.config
+C:\Users\fredd\documents\visual studio 2015\Projects\autodraftpp\ConsoleApplication1\bin\Debug\AutoDraftPP.exe
+C:\Users\fredd\documents\visual studio 2015\Projects\autodraftpp\ConsoleApplication1\bin\Debug\AutoDraftPP.pdb
+C:\Users\fredd\documents\visual studio 2015\Projects\autodraftpp\ConsoleApplication1\obj\Debug\AutoDraftPP.exe
+C:\Users\fredd\documents\visual studio 2015\Projects\autodraftpp\ConsoleApplication1\obj\Debug\AutoDraftPP.pdb
